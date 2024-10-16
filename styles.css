@@ -1,0 +1,114 @@
+
+        /* Q1 */
+        .box {
+            height: 200px;
+            width: 300px;
+            background-color: lightgrey;
+        }
+
+        /* Q2 */
+        .responsive-box {
+            width: 50vw; /* 50% of viewport width */
+            height: 50vh; /* 50% of viewport height */
+            background-color: lightcoral;
+        }
+
+        /* Q3 */
+        .padded-text {
+            padding: 20px;
+            background-color: lightblue;
+        }
+
+        /* Q4 */
+        .custom-padding {
+            padding: 10px 20px;
+            background-color: lightgreen;
+        }
+
+        /* Q5 */
+        .border-box {
+            border: 2px solid black;
+            height: 100px;
+            width: 200px;
+        }
+
+        /* Q6 */
+        .rounded-border {
+            border: 3px dotted red;
+            border-radius: 15px;
+            height: 100px;
+            width: 200px;
+        }
+
+        /* Q7 */
+        .margin-text {
+            margin: 30px;
+            background-color: lightyellow;
+        }
+
+        /* Q8 */
+        .custom-margin {
+            margin: 20px 40px;
+            background-color: lightpink;
+        }
+
+        /* Q9 */
+        .inline-element {
+            display: inline;
+            background-color: lavender;
+            height: 50px;
+            width: 50px;
+        }
+         /* Q9 */
+         .inline-element {
+            display: inline;
+            background-color: lavender;
+            height: 50px;
+            width: 50px;
+        }
+
+        /* Q10 */
+        .block-element {
+            display: block;
+            background-color: lightgoldenrodyellow;
+        }
+
+        /* Q11 */
+        .inline-block-element {
+            display: inline-block;
+            height: 50px;
+            width: 50px;
+            background-color: lightcyan;
+        }
+
+        /* Q12 */
+        .hidden-element {
+            display: none;
+        }
+ /* Q13 */
+ .visible-element {
+    visibility: visible;
+    background-color: lightskyblue;
+    height: 50px;
+    width: 200px;
+}
+
+/* Q14 */
+.invisible-element {
+    visibility: hidden;
+    background-color: lightseagreen;
+    height: 50px;
+    width: 200px;
+}
+
+/* Q15 */
+.transparent-box {
+    background-color: blue;
+    opacity: 0.5;
+    height: 100px;
+    width: 200px;
+}
+
+
+  
+    
